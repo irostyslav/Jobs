@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Salesforce Hiring Signal Dashboard</title>
+  <meta name="description" content="US corporate Salesforce openings as a priority signal — themes, narrative vs allocation, PM apply board. Snapshot 2026-09-20 PT." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./css/styles.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js" defer></script>
+  <script src="./js/app.js" defer></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <div class="brand">
+        <div class="brand-mark">SF</div>
+        <div>
+          <h1>Salesforce Hiring Signal</h1>
+          <p>US corporate openings as priority signal</p>
+        </div>
+      </div>
+      <nav class="nav" aria-label="Sections">
+        <a href="#overview">Overview</a>
+        <a href="#themes">Themes</a>
+        <a href="#relationships">Relationships</a>
+        <a href="#narrative">Narrative</a>
+        <a href="#pm-board">PM Board</a>
+        <a href="#explorer">Explorer</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero" id="overview">
+      <div class="container">
+        <div class="badge"><span>●</span> Live snapshot · Workday External Career Site (US)</div>
+        <div class="hero-grid">
+          <div>
+            <h2>What US hiring says about Salesforce priorities</h2>
+            <p class="lede" id="overview-lede">
+              Loading snapshot…
+            </p>
+            <div class="stat-row" id="stat-row">
+              <div class="stat"><div class="n" id="stat-n">—</div><div class="l">US unique reqs</div></div>
+              <div class="stat"><div class="n" id="stat-date">—</div><div class="l">Snapshot (PT)</div></div>
+              <div class="stat"><div class="n" id="stat-gtm">—</div><div class="l">GTM / Sales cluster</div></div>
+              <div class="stat"><div class="n" id="stat-agent">—</div><div class="l">Agentforce / AI</div></div>
+            </div>
+          </div>
+          <div class="card">
+            <h3>What hiring says</h3>
+            <p class="sub">Evidence-based bullets from the 2026-09-20 signal report (not invented).</p>
+            <ul class="insights" id="insights-list"></ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="themes">
+      <div class="container">
+        <div class="section-head">
+          <h2>Theme volume &amp; Workday categories</h2>
+          <p>Title/keyword multi-label themes (one job can sit in several themes) vs official Workday Job Category facets on the same US filter. Percentages can sum &gt;100%.</p>
+        </div>
+        <div class="grid-2">
+          <div class="card">
+            <h3>Theme volume (keyword)</h3>
+            <p class="sub">Counts from hiring-signal JSON · N=498</p>
+            <div class="chart-wrap tall"><canvas id="chart-themes"></canvas></div>
+          </div>
+          <div class="card">
+            <h3>Workday Job Category</h3>
+            <p class="sub">Facet from US-filtered CXS response</p>
+            <div class="chart-wrap tall"><canvas id="chart-categories"></canvas></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="relationships">
+      <div class="container">
+        <div class="section-head">
+          <h2>Theme relationships</h2>
+          <p>How strategic themes co-occur in the same job titles (Agentforce, Partner, Public Sector, GTM, Slack, Data Cloud, etc.). Node size = report theme count; edge weight = co-occurrence in titles.</p>
+        </div>
+        <div class="tabs" role="tablist">
+          <button class="tab-btn active" data-rel-tab="graph" type="button">Force graph</button>
+          <button class="tab-btn" data-rel-tab="matrix" type="button">Co-occurrence matrix</button>
+        </div>
+        <div class="card" id="rel-graph-panel">
+          <h3>Focus network</h3>
+          <p class="sub">Drag nodes · hover for counts · edge thickness ∝ co-occurrence</p>
+          <canvas id="graph-canvas" width="1100" height="460"></canvas>
+          <div class="legend-row" id="graph-legend"></div>
+        </div>
+        <div class="card" id="rel-matrix-panel" hidden>
+          <h3>Full theme co-occurrence matrix</h3>
+          <p class="sub">Cell = number of US titles matching both themes (multi-label)</p>
+          <div class="matrix-wrap" id="matrix-wrap"></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="narrative">
+      <div class="container">
+        <div class="section-head">
+          <h2>Public narrative vs hiring allocation</h2>
+          <p>Side-by-side: what Salesforce emphasizes publicly vs where US external openings concentrate in this snapshot.</p>
+        </div>
+        <div class="vs-grid">
+          <div class="card">
+            <h3>Public narrative (cited)</h3>
+            <div id="narrative-claims"></div>
+          </div>
+          <div class="card">
+            <h3>Hiring allocation (this snapshot)</h3>
+            <p class="sub">Theme counts from US Workday openings · N=498</p>
+            <div id="narrative-alloc"></div>
+            <div class="caveat" id="narrative-caveat"></div>
+          </div>
+        </div>
+        <div class="card" style="margin-top:1rem" id="narrative-contrast"></div>
+      </div>
+    </section>
+
+    <section id="pm-board">
+      <div class="container">
+        <div class="section-head">
+          <h2>PM apply board</h2>
+          <p>Senior PM → Director shortlist for partner / AgentExchange / ecosystem fit. Links open Workday. Do not invent — sourced from the 2026-09-20 shortlist.</p>
+        </div>
+        <div class="pm-grid" id="pm-grid"></div>
+        <div class="stretch-note" id="pm-stretch"></div>
+      </div>
+    </section>
+
+    <section id="explorer">
+      <div class="container">
+        <div class="section-head">
+          <h2>Job explorer</h2>
+          <p>Search and filter all 498 US corporate openings from the normalized Workday snapshot.</p>
+        </div>
+        <div class="filters">
+          <input type="search" id="job-search" placeholder="Search title, location, req…" autocomplete="off" />
+          <select id="job-theme-filter">
+            <option value="">All themes</option>
+          </select>
+          <select id="job-fresh-filter">
+            <option value="">Any posted date</option>
+            <option value="7">≤ ~7 days</option>
+            <option value="14">≤ ~14 days</option>
+            <option value="30">≤ ~30 days</option>
+            <option value="30plus">30+ days</option>
+          </select>
+          <span id="job-count"></span>
+        </div>
+        <div class="table-wrap">
+          <table class="jobs">
+            <thead>
+              <tr>
+                <th>Title</th>
+                <th>Location</th>
+                <th>Posted</th>
+                <th>Req</th>
+                <th>Themes</th>
+              </tr>
+            </thead>
+            <tbody id="jobs-tbody">
+              <tr><td colspan="5" class="loading">Loading jobs…</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <p>
+        Data: Workday External Career Site US filter · Snapshot 2026-09-20 PT ·
+        Postings ≠ approved headcount ·
+        <a href="https://github.com/irostyslav/Jobs">github.com/irostyslav/Jobs</a> ·
+        <a href="./data/salesforce-hiring-signal-20260920.md">Signal report (md)</a>
+      </p>
+      <p style="margin-top:.4rem">Built as a static GitHub Pages dashboard. No applications were submitted.</p>
+    </div>
+  </footer>
+</body>
+</html>

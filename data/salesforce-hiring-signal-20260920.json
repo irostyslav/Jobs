@@ -1,0 +1,427 @@
+{
+  "snapshot_date": "2026-09-20",
+  "timezone_note": "PT (America/Los_Angeles)",
+  "source": {
+    "portal": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site",
+    "api": "POST /wday/cxs/salesforce/External_Career_Site/jobs",
+    "us_country_facet_id": "bc33aa3152ec42d4995f4791a106ed09"
+  },
+  "n_jobs_us": 498,
+  "total_reported_us": 498,
+  "filter": "United States of America country facet",
+  "job_category_facets_us_context": [
+    {
+      "name": "Sales",
+      "count": 148
+    },
+    {
+      "name": "Software Engineering",
+      "count": 92
+    },
+    {
+      "name": "Customer Success",
+      "count": 88
+    },
+    {
+      "name": "Marketing & Communications",
+      "count": 31
+    },
+    {
+      "name": "Product",
+      "count": 24
+    },
+    {
+      "name": "Employee Success",
+      "count": 24
+    },
+    {
+      "name": "Finance",
+      "count": 18
+    },
+    {
+      "name": "Enterprise Technology & Infrastructure",
+      "count": 17
+    },
+    {
+      "name": "Operations",
+      "count": 15
+    },
+    {
+      "name": "Program & Project Management",
+      "count": 13
+    },
+    {
+      "name": "User Experience",
+      "count": 8
+    },
+    {
+      "name": "Global Affairs",
+      "count": 7
+    },
+    {
+      "name": "Fixed Term & Temporary",
+      "count": 5
+    },
+    {
+      "name": "Development & Strategy",
+      "count": 2
+    },
+    {
+      "name": "Data",
+      "count": 2
+    },
+    {
+      "name": "Corporate Functions",
+      "count": 2
+    },
+    {
+      "name": "Compliance",
+      "count": 2
+    }
+  ],
+  "themes": [
+    {
+      "theme": "GTM / Sales / AE / SE / CSM",
+      "count": 152,
+      "pct_of_sample": 30.5,
+      "fresh_within_7d": 35,
+      "avg_posted_days_approx": 26.0,
+      "example_titles": [
+        "Qualified Success Architect, University",
+        "Named Account Executive",
+        "Data Cloud Success Architect (U.S. Citizen)"
+      ]
+    },
+    {
+      "theme": "Engineering / Platforms / Infrastructure",
+      "count": 125,
+      "pct_of_sample": 25.1,
+      "fresh_within_7d": 30,
+      "avg_posted_days_approx": 22.7,
+      "example_titles": [
+        "Senior backend Engineer - Java",
+        "Senior Software Engineer",
+        "Senior Cloud Platform Engineer (SMTS)"
+      ]
+    },
+    {
+      "theme": "Public Sector / Missionforce",
+      "count": 44,
+      "pct_of_sample": 8.8,
+      "fresh_within_7d": 7,
+      "avg_posted_days_approx": 27.4,
+      "example_titles": [
+        "Manager, Compliance - Public Sector Contracts",
+        "Summer 2027 Intern - Sales Development, Public Sector",
+        "Engagement Delivery Leader - Public Sector"
+      ]
+    },
+    {
+      "theme": "Agentforce / AI Agents",
+      "count": 41,
+      "pct_of_sample": 8.2,
+      "fresh_within_7d": 12,
+      "avg_posted_days_approx": 24.1,
+      "example_titles": [
+        "Member of Technical Staff \u2014 Machine Learning & Agent Security Engineering",
+        "Senior Solution Architect (Marketing, Data360 or Agentforce Contact Center)",
+        "Architect, Data Platform \u2014 AgentExchange"
+      ]
+    },
+    {
+      "theme": "Data Cloud / Analytics / Tableau",
+      "count": 41,
+      "pct_of_sample": 8.2,
+      "fresh_within_7d": 10,
+      "avg_posted_days_approx": 23.0,
+      "example_titles": [
+        "Data Cloud Success Architect (U.S. Citizen)",
+        "Senior Solution Architect (Marketing, Data360 or Agentforce Contact Center)",
+        "Commercial Account Executive - Data Foundation (MuleSoft + Informatica)"
+      ]
+    },
+    {
+      "theme": "Security / Trust / Compliance",
+      "count": 41,
+      "pct_of_sample": 8.2,
+      "fresh_within_7d": 12,
+      "avg_posted_days_approx": 19.5,
+      "example_titles": [
+        "Security Practices Director",
+        "Manager, Compliance - Public Sector Contracts",
+        "Member of Technical Staff \u2014 Machine Learning & Agent Security Engineering"
+      ]
+    },
+    {
+      "theme": "Industry Clouds / Vertical",
+      "count": 33,
+      "pct_of_sample": 6.6,
+      "fresh_within_7d": 9,
+      "avg_posted_days_approx": 25.4,
+      "example_titles": [
+        "Customer Success Manager, Senior Manager - Healthcare",
+        "Account Partner (Auto, Energy, Utilities)",
+        "Summer 2027 Intern - Sales Development, Nonprofit"
+      ]
+    },
+    {
+      "theme": "Marketing / Communications / Creative",
+      "count": 31,
+      "pct_of_sample": 6.2,
+      "fresh_within_7d": 7,
+      "avg_posted_days_approx": 20.3,
+      "example_titles": [
+        "Senior Solution Architect (Marketing, Data360 or Agentforce Contact Center)",
+        "Manager/Sr Product Marketing Manager Agentforce",
+        "Product Marketing Lead - Keynote Demos"
+      ]
+    },
+    {
+      "theme": "Talent / HR / Employee Success",
+      "count": 31,
+      "pct_of_sample": 6.2,
+      "fresh_within_7d": 11,
+      "avg_posted_days_approx": 18.0,
+      "example_titles": [
+        "Summer 2027 Intern - Recruiting Data Intelligence",
+        "Corporate Recruiter (Contract)",
+        "Summer 2027 Intern - Sales Development, Public Sector"
+      ]
+    },
+    {
+      "theme": "MuleSoft / Integration",
+      "count": 27,
+      "pct_of_sample": 5.4,
+      "fresh_within_7d": 5,
+      "avg_posted_days_approx": 25.0,
+      "example_titles": [
+        "Commercial Account Executive - Data Foundation (MuleSoft + Informatica)",
+        "Customer Success Manager, MuleSoft",
+        "Consumption Lead, Mulesoft"
+      ]
+    },
+    {
+      "theme": "Slack / Collaboration",
+      "count": 19,
+      "pct_of_sample": 3.8,
+      "fresh_within_7d": 6,
+      "avg_posted_days_approx": 20.9,
+      "example_titles": [
+        "API Field Specialist, Slack",
+        "Slack Field CTO",
+        "Slack Strategic Operations Senior Director"
+      ]
+    },
+    {
+      "theme": "Partner / AppExchange / Marketplace / Ecosystem",
+      "count": 18,
+      "pct_of_sample": 3.6,
+      "fresh_within_7d": 3,
+      "avg_posted_days_approx": 26.0,
+      "example_titles": [
+        "Architect, Data Platform \u2014 AgentExchange",
+        "SMB/Commercial Account Executive - Partner Cloud, PRM, & Channel Revenue Management",
+        "Partner Engagements Manager"
+      ]
+    },
+    {
+      "theme": "Product Management",
+      "count": 16,
+      "pct_of_sample": 3.2,
+      "fresh_within_7d": 1,
+      "avg_posted_days_approx": 30.3,
+      "example_titles": [
+        "Sr. Product Manager, Enterprise Security Technology",
+        "Senior Product Manager, Finance Systems \u2013 Workday",
+        "Director, Product Management, Slackforce Architecture"
+      ]
+    },
+    {
+      "theme": "UX / Design",
+      "count": 10,
+      "pct_of_sample": 2.0,
+      "fresh_within_7d": 4,
+      "avg_posted_days_approx": 17.8,
+      "example_titles": [
+        "SVP, Research & Insights - Experience Design",
+        "SVP, Experience Strategy & Studio - Experience Design",
+        "Senior Experience Architect"
+      ]
+    },
+    {
+      "theme": "Sales / Service / Marketing / Commerce Cloud",
+      "count": 7,
+      "pct_of_sample": 1.4,
+      "fresh_within_7d": 1,
+      "avg_posted_days_approx": 22.0,
+      "example_titles": [
+        "Director, Customer Success Management - Commerce Cloud",
+        "Success Architect - Commerce Cloud (PredictSpring/POS)",
+        "Technical Support Engineer - Service Cloud"
+      ]
+    },
+    {
+      "theme": "Internal IT / Finance / DET",
+      "count": 7,
+      "pct_of_sample": 1.4,
+      "fresh_within_7d": 0,
+      "avg_posted_days_approx": 27.0,
+      "example_titles": [
+        "Senior Product Manager, Finance Systems \u2013 Workday",
+        "Senior Technical Program Manager, IT Experience Engineering",
+        "ES Workday Operations Analyst"
+      ]
+    }
+  ],
+  "insights": [
+    "US external openings concentrate in GTM capacity (152 titles touching Sales/AE/SE/CSM) and Software Engineering (125), matching Workday Job Category facets: Sales 148, Software Engineering 92, Customer Success 88 \u2014 vs Product only 24.",
+    "Agentforce / AI is a clear product bet in staffing: 41 US openings explicitly reference Agentforce, agentic workflows, AgentExchange, ML/AI research, or AI architects \u2014 with 12 posted in the last ~7 days (PMM, Success Architects, Agent Security eng, AgentExchange data platform).",
+    "Partner/ecosystem staffing is real but mostly GTM/alliances, not Product: 18 openings after excluding AE \u201cAccount Partner\u201d and HR \u201cBusiness Partner\u201d (Partner Cloud/PRM AE, ISV PAM, Alliances, Marketplace BD, Partner Engagements, AgentExchange architect, Partner Experience SPM). Only ~2 are Product Manager\u2013titled (Partner Experience + Search/Personalization for AgentExchange).",
+    "Public sector / Missionforce is a sustained cluster (44 titles) spanning AE, compliance, delivery, and Agentforce Public Sector PM \u2014 not a one-off req.",
+    "Slack remains an active hiring brand inside Salesforce Workday (19 titles) including Director PM Slackforce Architecture, Field CTO, API specialists \u2014 evidence of continued Slack\u2194Salesforce integration investment.",
+    "MuleSoft + Informatica / Data Foundation show up as a bundled GTM motion (27 titles), plus an SVP PM for MuleSoft Agent Fabric \u2014 integration + agents treated as one growth narrative in openings.",
+    "Classic CRM-cloud-named reqs are thin relative to Agentforce: Sales/Service/Marketing/Commerce Cloud explicit titles only 7; Heroku 0; AppExchange exact-title 0. Tableau still has ~11 US titles (mostly AE/CSM/instructor/architect), and Data 360 / Data Cloud naming appears alongside Agentforce. External posting language prioritizes agents + data platform over classic Sales/Service Cloud branding.",
+    "Product Management IC/lead openings are sparse (16 in US sample; Job Category Product=24 including non-PM). Freshness is weak (many 30+ days) except Enterprise Security SPM (6d) and Finance Systems SPM (10d). Implies either filled quietly, internal mobility, or slow external PM hiring vs GTM/Eng."
+  ],
+  "pm_apply_shortlist": [
+    {
+      "rank": 1,
+      "req": "JR351543",
+      "title": "Senior Product Manager, Search and Personalization",
+      "location": "2 Locations",
+      "postedOn": "Posted 30+ Days Ago",
+      "why_fit": "Best ecosystem fit: AgentExchange Marketplace Experience \u2014 search/personalization for Agentforce agents + AppExchange apps.",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Senior-Product-Manager--Search-and-Personalization_JR351543"
+    },
+    {
+      "rank": 2,
+      "req": "JR353143",
+      "title": "Senior Product Manager, Partner Experience",
+      "location": "New York - New York",
+      "postedOn": "Posted 30+ Days Ago",
+      "why_fit": "Direct partner-ecosystem PM: reimagining how partners engage/grow across Salesforce partner ecosystem.",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/New-York---New-York/Senior-Product-Manager--Partner-Experience_JR353143"
+    },
+    {
+      "rank": 3,
+      "req": "JR356455",
+      "title": "Director, Product Management, Slackforce Architecture",
+      "location": "California - San Francisco",
+      "postedOn": "Posted 12 Days Ago",
+      "why_fit": "Director-level platform PM owning Slack\u2194Salesforce integration architecture \u2014 Senior\u2192Director target.",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Director--Product-Management--Slackforce-Architecture_JR356455-1"
+    },
+    {
+      "rank": 4,
+      "req": "JR355350",
+      "title": "Director, Product Management \u2014 Campaign Brief Agent",
+      "location": "California - San Francisco",
+      "postedOn": "Posted 26 Days Ago",
+      "why_fit": "Director PM on agentic messaging (Campaign Brief Agent); level match + AI/agent product work.",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Director--Product-Management---Campaign-Brief-Agent_JR355350"
+    },
+    {
+      "rank": 5,
+      "req": "JR356268",
+      "title": "Missionforce - Senior Product Manager, Agentforce Public Sector",
+      "location": "2 Locations",
+      "postedOn": "Posted 30+ Days Ago",
+      "why_fit": "Senior PM on Agentforce for public sector; US hubs/remote. Flag: US citizen / screening.",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Virginia---Herndon/Missionforce---Senior-Product-Manager--Agentforce-Public-Sector_JR356268"
+    },
+    {
+      "rank": 6,
+      "req": "JR355248",
+      "title": "Senior Product Manager, Emerging Technology",
+      "location": "3 Locations",
+      "postedOn": "Posted 20 Days Ago",
+      "why_fit": "Senior PM turning emerging tech into customer-facing products; multi-hub US.",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/New-York---New-York/Senior-Product-Manager--Emerging-Technology_JR355248"
+    },
+    {
+      "rank": 7,
+      "req": "JR352033",
+      "title": "Senior Product Manager",
+      "location": "California - San Francisco",
+      "postedOn": "Posted 30+ Days Ago",
+      "why_fit": "Senior PM on agentic marketing (Piper AI SDR / website experience); SF hub.",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Senior-Product-Manager_JR352033"
+    },
+    {
+      "rank": 8,
+      "req": "JR359178",
+      "title": "Sr. Product Manager, Enterprise Security Technology",
+      "location": "Washington - Bellevue",
+      "postedOn": "Posted 6 Days Ago",
+      "why_fit": "Fresh Senior PM in Bellevue; enterprise security product \u2014 level OK, less ecosystem flavor.",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Sr-Product-Manager--Enterprise-Security-Technology_JR359178-1"
+    },
+    {
+      "rank": 9,
+      "req": "JR354037",
+      "title": "Product Manager, Enterprise AI & Portfolio Management Platforms",
+      "location": "5 Locations",
+      "postedOn": "Posted 30+ Days Ago",
+      "why_fit": "US multi-hub AI platform PM. Flag: title is Product Manager (not Senior/Director).",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Seattle/Product-Manager--Enterprise-AI---Portfolio-Management-Platforms_JR354037"
+    },
+    {
+      "rank": 10,
+      "req": "JR355801",
+      "title": "Senior Product Manager, Finance Systems \u2013 Workday",
+      "location": "4 Locations",
+      "postedOn": "Posted 10 Days Ago",
+      "why_fit": "Senior PM with strong US remote; internal Finance/Workday \u2014 level/location fit, not partner.",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Virginia---Remote/Senior-Product-Manager--Finance-Systems---Workday_JR355801"
+    },
+    {
+      "rank": 11,
+      "req": "JR351635",
+      "title": "Senior Product Manager, IT Finance",
+      "location": "3 Locations",
+      "postedOn": "Posted 30+ Days Ago",
+      "why_fit": "Senior PM US hubs; internal Finance tech \u2014 solid corporate PM, weaker ecosystem alignment.",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Senior-Manager-Product--IT-Finance_JR351635"
+    },
+    {
+      "rank": 12,
+      "req": "JR344487",
+      "title": "Senior Product Manager, Project & Program Management, Emerging Technology",
+      "location": "2 Locations",
+      "postedOn": "Posted 30+ Days Ago",
+      "why_fit": "Senior title + US hubs, but supports PMs (0\u21921 enablement) rather than owning portfolio; oldest req.",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/New-York---New-York/Senior-Product-Manager--Project---Program-Management--Emerging-Technology_JR344487"
+    }
+  ],
+  "pm_stretch": [
+    {
+      "req": "JR353560",
+      "title": "SVP, Product Management \u2013 MuleSoft Agent Fabric & AI Control Plane",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/SVP--Product-Management---MuleSoft-Agent-Fabric---AI-Control-Plane_JR353560",
+      "note": "SVP above Director target; MuleSoft Agent Fabric & AI Control Plane \u2014 domain interesting.",
+      "postedOn": "Posted 30+ Days Ago"
+    },
+    {
+      "req": "JR354315",
+      "title": "Product Manager, Customer Success",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Indiana---Indianapolis/Product-Manager--Customer-Success_JR354315",
+      "note": "Likely below Senior/Director band; Customer Success tooling.",
+      "postedOn": "Posted 27 Days Ago"
+    },
+    {
+      "req": "JR349769",
+      "title": "Product Manager Senior Specialist",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Texas---Dallas/Product-Manager-Senior-Specialist_JR349769-1",
+      "note": "Title/level ambiguous vs Senior PM\u2013Director; GTM Innovation specialist.",
+      "postedOn": "Posted 30+ Days Ago"
+    }
+  ],
+  "caveats": [
+    "External Workday postings \u2260 approved headcount; includes backfills and evergreen reqs.",
+    "Some reqs appear with multi-location cards; we deduped by JR id (498 unique of 498 US rows).",
+    "Title keyword clustering is imperfect (multi-label; Account Partner \u2260 ecosystem Partner).",
+    "Contractor / intern / fixed-term noise exists (Job Type facet: Regular 491, Intern 5, Contractor 2 under US filter context).",
+    "Posted dates are relative strings from API (Posted X Days Ago / 30+ Days); startDate requires per-job detail fetch.",
+    "Job Category facet counts are from the US-filtered response and should sum near total; theme multi-label counts can exceed N."
+  ]
+}

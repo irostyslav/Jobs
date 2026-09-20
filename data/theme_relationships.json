@@ -1,0 +1,3676 @@
+{
+  "snapshot_date": "2026-09-20",
+  "n_jobs": 498,
+  "method": "Title keyword multi-label co-occurrence derived from sf_us_jobs_normalized.json; node counts from hiring-signal report.",
+  "focus_themes": [
+    "Agentforce / AI Agents",
+    "Data Cloud / Analytics / Tableau",
+    "Engineering / Platforms / Infrastructure",
+    "GTM / Sales / AE / SE / CSM",
+    "MuleSoft / Integration",
+    "Partner / AppExchange / Marketplace / Ecosystem",
+    "Product Management",
+    "Public Sector / Missionforce",
+    "Security / Trust / Compliance",
+    "Slack / Collaboration"
+  ],
+  "nodes": [
+    {
+      "id": "GTM / Sales / AE / SE / CSM",
+      "label": "GTM",
+      "full": "GTM / Sales / AE / SE / CSM",
+      "count": 152,
+      "pct": 30.5,
+      "fresh_7d": 35
+    },
+    {
+      "id": "Engineering / Platforms / Infrastructure",
+      "label": "Engineering",
+      "full": "Engineering / Platforms / Infrastructure",
+      "count": 125,
+      "pct": 25.1,
+      "fresh_7d": 30
+    },
+    {
+      "id": "Public Sector / Missionforce",
+      "label": "Public Sector",
+      "full": "Public Sector / Missionforce",
+      "count": 44,
+      "pct": 8.8,
+      "fresh_7d": 7
+    },
+    {
+      "id": "Agentforce / AI Agents",
+      "label": "Agentforce",
+      "full": "Agentforce / AI Agents",
+      "count": 41,
+      "pct": 8.2,
+      "fresh_7d": 12
+    },
+    {
+      "id": "Data Cloud / Analytics / Tableau",
+      "label": "Data Cloud",
+      "full": "Data Cloud / Analytics / Tableau",
+      "count": 41,
+      "pct": 8.2,
+      "fresh_7d": 10
+    },
+    {
+      "id": "Security / Trust / Compliance",
+      "label": "Security",
+      "full": "Security / Trust / Compliance",
+      "count": 41,
+      "pct": 8.2,
+      "fresh_7d": 12
+    },
+    {
+      "id": "MuleSoft / Integration",
+      "label": "MuleSoft",
+      "full": "MuleSoft / Integration",
+      "count": 27,
+      "pct": 5.4,
+      "fresh_7d": 5
+    },
+    {
+      "id": "Slack / Collaboration",
+      "label": "Slack",
+      "full": "Slack / Collaboration",
+      "count": 19,
+      "pct": 3.8,
+      "fresh_7d": 6
+    },
+    {
+      "id": "Partner / AppExchange / Marketplace / Ecosystem",
+      "label": "Partner",
+      "full": "Partner / AppExchange / Marketplace / Ecosystem",
+      "count": 18,
+      "pct": 3.6,
+      "fresh_7d": 3
+    },
+    {
+      "id": "Product Management",
+      "label": "Product Management",
+      "full": "Product Management",
+      "count": 16,
+      "pct": 3.2,
+      "fresh_7d": 1
+    }
+  ],
+  "all_nodes": [
+    {
+      "id": "GTM / Sales / AE / SE / CSM",
+      "label": "GTM",
+      "full": "GTM / Sales / AE / SE / CSM",
+      "count": 152,
+      "pct": 30.5,
+      "fresh_7d": 35
+    },
+    {
+      "id": "Engineering / Platforms / Infrastructure",
+      "label": "Engineering",
+      "full": "Engineering / Platforms / Infrastructure",
+      "count": 125,
+      "pct": 25.1,
+      "fresh_7d": 30
+    },
+    {
+      "id": "Public Sector / Missionforce",
+      "label": "Public Sector",
+      "full": "Public Sector / Missionforce",
+      "count": 44,
+      "pct": 8.8,
+      "fresh_7d": 7
+    },
+    {
+      "id": "Agentforce / AI Agents",
+      "label": "Agentforce",
+      "full": "Agentforce / AI Agents",
+      "count": 41,
+      "pct": 8.2,
+      "fresh_7d": 12
+    },
+    {
+      "id": "Data Cloud / Analytics / Tableau",
+      "label": "Data Cloud",
+      "full": "Data Cloud / Analytics / Tableau",
+      "count": 41,
+      "pct": 8.2,
+      "fresh_7d": 10
+    },
+    {
+      "id": "Security / Trust / Compliance",
+      "label": "Security",
+      "full": "Security / Trust / Compliance",
+      "count": 41,
+      "pct": 8.2,
+      "fresh_7d": 12
+    },
+    {
+      "id": "Industry Clouds / Vertical",
+      "label": "Industry Clouds",
+      "full": "Industry Clouds / Vertical",
+      "count": 33,
+      "pct": 6.6,
+      "fresh_7d": 9
+    },
+    {
+      "id": "Marketing / Communications / Creative",
+      "label": "Marketing",
+      "full": "Marketing / Communications / Creative",
+      "count": 31,
+      "pct": 6.2,
+      "fresh_7d": 7
+    },
+    {
+      "id": "Talent / HR / Employee Success",
+      "label": "Talent",
+      "full": "Talent / HR / Employee Success",
+      "count": 31,
+      "pct": 6.2,
+      "fresh_7d": 11
+    },
+    {
+      "id": "MuleSoft / Integration",
+      "label": "MuleSoft",
+      "full": "MuleSoft / Integration",
+      "count": 27,
+      "pct": 5.4,
+      "fresh_7d": 5
+    },
+    {
+      "id": "Slack / Collaboration",
+      "label": "Slack",
+      "full": "Slack / Collaboration",
+      "count": 19,
+      "pct": 3.8,
+      "fresh_7d": 6
+    },
+    {
+      "id": "Partner / AppExchange / Marketplace / Ecosystem",
+      "label": "Partner",
+      "full": "Partner / AppExchange / Marketplace / Ecosystem",
+      "count": 18,
+      "pct": 3.6,
+      "fresh_7d": 3
+    },
+    {
+      "id": "Product Management",
+      "label": "Product Management",
+      "full": "Product Management",
+      "count": 16,
+      "pct": 3.2,
+      "fresh_7d": 1
+    },
+    {
+      "id": "UX / Design",
+      "label": "UX",
+      "full": "UX / Design",
+      "count": 10,
+      "pct": 2.0,
+      "fresh_7d": 4
+    },
+    {
+      "id": "Sales / Service / Marketing / Commerce Cloud",
+      "label": "Sales",
+      "full": "Sales / Service / Marketing / Commerce Cloud",
+      "count": 7,
+      "pct": 1.4,
+      "fresh_7d": 1
+    },
+    {
+      "id": "Internal IT / Finance / DET",
+      "label": "Internal IT",
+      "full": "Internal IT / Finance / DET",
+      "count": 7,
+      "pct": 1.4,
+      "fresh_7d": 0
+    }
+  ],
+  "edges": [
+    {
+      "source": "GTM / Sales / AE / SE / CSM",
+      "target": "Public Sector / Missionforce",
+      "weight": 31
+    },
+    {
+      "source": "Data Cloud / Analytics / Tableau",
+      "target": "GTM / Sales / AE / SE / CSM",
+      "weight": 31
+    },
+    {
+      "source": "GTM / Sales / AE / SE / CSM",
+      "target": "MuleSoft / Integration",
+      "weight": 16
+    },
+    {
+      "source": "Agentforce / AI Agents",
+      "target": "GTM / Sales / AE / SE / CSM",
+      "weight": 11
+    },
+    {
+      "source": "Engineering / Platforms / Infrastructure",
+      "target": "Security / Trust / Compliance",
+      "weight": 8
+    },
+    {
+      "source": "Agentforce / AI Agents",
+      "target": "Engineering / Platforms / Infrastructure",
+      "weight": 7
+    },
+    {
+      "source": "Agentforce / AI Agents",
+      "target": "Data Cloud / Analytics / Tableau",
+      "weight": 7
+    },
+    {
+      "source": "Data Cloud / Analytics / Tableau",
+      "target": "MuleSoft / Integration",
+      "weight": 7
+    },
+    {
+      "source": "GTM / Sales / AE / SE / CSM",
+      "target": "Security / Trust / Compliance",
+      "weight": 6
+    },
+    {
+      "source": "Engineering / Platforms / Infrastructure",
+      "target": "Slack / Collaboration",
+      "weight": 5
+    },
+    {
+      "source": "Agentforce / AI Agents",
+      "target": "Product Management",
+      "weight": 5
+    },
+    {
+      "source": "Data Cloud / Analytics / Tableau",
+      "target": "Public Sector / Missionforce",
+      "weight": 4
+    },
+    {
+      "source": "Public Sector / Missionforce",
+      "target": "Security / Trust / Compliance",
+      "weight": 4
+    },
+    {
+      "source": "GTM / Sales / AE / SE / CSM",
+      "target": "Slack / Collaboration",
+      "weight": 4
+    },
+    {
+      "source": "GTM / Sales / AE / SE / CSM",
+      "target": "Partner / AppExchange / Marketplace / Ecosystem",
+      "weight": 3
+    },
+    {
+      "source": "Agentforce / AI Agents",
+      "target": "Public Sector / Missionforce",
+      "weight": 3
+    },
+    {
+      "source": "Data Cloud / Analytics / Tableau",
+      "target": "Security / Trust / Compliance",
+      "weight": 2
+    },
+    {
+      "source": "GTM / Sales / AE / SE / CSM",
+      "target": "Product Management",
+      "weight": 2
+    },
+    {
+      "source": "MuleSoft / Integration",
+      "target": "Security / Trust / Compliance",
+      "weight": 2
+    },
+    {
+      "source": "Agentforce / AI Agents",
+      "target": "Security / Trust / Compliance",
+      "weight": 1
+    },
+    {
+      "source": "Data Cloud / Analytics / Tableau",
+      "target": "Engineering / Platforms / Infrastructure",
+      "weight": 1
+    },
+    {
+      "source": "Engineering / Platforms / Infrastructure",
+      "target": "Partner / AppExchange / Marketplace / Ecosystem",
+      "weight": 1
+    },
+    {
+      "source": "Agentforce / AI Agents",
+      "target": "Partner / AppExchange / Marketplace / Ecosystem",
+      "weight": 1
+    },
+    {
+      "source": "Data Cloud / Analytics / Tableau",
+      "target": "Partner / AppExchange / Marketplace / Ecosystem",
+      "weight": 1
+    },
+    {
+      "source": "Product Management",
+      "target": "Security / Trust / Compliance",
+      "weight": 1
+    },
+    {
+      "source": "Product Management",
+      "target": "Slack / Collaboration",
+      "weight": 1
+    },
+    {
+      "source": "Security / Trust / Compliance",
+      "target": "Slack / Collaboration",
+      "weight": 1
+    },
+    {
+      "source": "Partner / AppExchange / Marketplace / Ecosystem",
+      "target": "Product Management",
+      "weight": 1
+    },
+    {
+      "source": "Product Management",
+      "target": "Public Sector / Missionforce",
+      "weight": 1
+    },
+    {
+      "source": "Agentforce / AI Agents",
+      "target": "MuleSoft / Integration",
+      "weight": 1
+    },
+    {
+      "source": "MuleSoft / Integration",
+      "target": "Product Management",
+      "weight": 1
+    },
+    {
+      "source": "Data Cloud / Analytics / Tableau",
+      "target": "Slack / Collaboration",
+      "weight": 1
+    },
+    {
+      "source": "MuleSoft / Integration",
+      "target": "Public Sector / Missionforce",
+      "weight": 1
+    }
+  ],
+  "matrix": {
+    "GTM / Sales / AE / SE / CSM": {
+      "GTM / Sales / AE / SE / CSM": 0,
+      "Engineering / Platforms / Infrastructure": 0,
+      "Public Sector / Missionforce": 31,
+      "Agentforce / AI Agents": 11,
+      "Data Cloud / Analytics / Tableau": 31,
+      "Security / Trust / Compliance": 6,
+      "Industry Clouds / Vertical": 25,
+      "Marketing / Communications / Creative": 4,
+      "Talent / HR / Employee Success": 1,
+      "MuleSoft / Integration": 16,
+      "Slack / Collaboration": 4,
+      "Partner / AppExchange / Marketplace / Ecosystem": 3,
+      "Product Management": 2,
+      "UX / Design": 0,
+      "Sales / Service / Marketing / Commerce Cloud": 4,
+      "Internal IT / Finance / DET": 0
+    },
+    "Engineering / Platforms / Infrastructure": {
+      "GTM / Sales / AE / SE / CSM": 0,
+      "Engineering / Platforms / Infrastructure": 0,
+      "Public Sector / Missionforce": 0,
+      "Agentforce / AI Agents": 7,
+      "Data Cloud / Analytics / Tableau": 1,
+      "Security / Trust / Compliance": 8,
+      "Industry Clouds / Vertical": 0,
+      "Marketing / Communications / Creative": 0,
+      "Talent / HR / Employee Success": 0,
+      "MuleSoft / Integration": 0,
+      "Slack / Collaboration": 5,
+      "Partner / AppExchange / Marketplace / Ecosystem": 1,
+      "Product Management": 0,
+      "UX / Design": 2,
+      "Sales / Service / Marketing / Commerce Cloud": 0,
+      "Internal IT / Finance / DET": 1
+    },
+    "Public Sector / Missionforce": {
+      "GTM / Sales / AE / SE / CSM": 31,
+      "Engineering / Platforms / Infrastructure": 0,
+      "Public Sector / Missionforce": 0,
+      "Agentforce / AI Agents": 3,
+      "Data Cloud / Analytics / Tableau": 4,
+      "Security / Trust / Compliance": 4,
+      "Industry Clouds / Vertical": 6,
+      "Marketing / Communications / Creative": 1,
+      "Talent / HR / Employee Success": 0,
+      "MuleSoft / Integration": 1,
+      "Slack / Collaboration": 0,
+      "Partner / AppExchange / Marketplace / Ecosystem": 0,
+      "Product Management": 1,
+      "UX / Design": 1,
+      "Sales / Service / Marketing / Commerce Cloud": 1,
+      "Internal IT / Finance / DET": 0
+    },
+    "Agentforce / AI Agents": {
+      "GTM / Sales / AE / SE / CSM": 11,
+      "Engineering / Platforms / Infrastructure": 7,
+      "Public Sector / Missionforce": 3,
+      "Agentforce / AI Agents": 0,
+      "Data Cloud / Analytics / Tableau": 7,
+      "Security / Trust / Compliance": 1,
+      "Industry Clouds / Vertical": 2,
+      "Marketing / Communications / Creative": 5,
+      "Talent / HR / Employee Success": 2,
+      "MuleSoft / Integration": 1,
+      "Slack / Collaboration": 0,
+      "Partner / AppExchange / Marketplace / Ecosystem": 1,
+      "Product Management": 5,
+      "UX / Design": 0,
+      "Sales / Service / Marketing / Commerce Cloud": 0,
+      "Internal IT / Finance / DET": 0
+    },
+    "Data Cloud / Analytics / Tableau": {
+      "GTM / Sales / AE / SE / CSM": 31,
+      "Engineering / Platforms / Infrastructure": 1,
+      "Public Sector / Missionforce": 4,
+      "Agentforce / AI Agents": 7,
+      "Data Cloud / Analytics / Tableau": 0,
+      "Security / Trust / Compliance": 2,
+      "Industry Clouds / Vertical": 3,
+      "Marketing / Communications / Creative": 3,
+      "Talent / HR / Employee Success": 2,
+      "MuleSoft / Integration": 7,
+      "Slack / Collaboration": 1,
+      "Partner / AppExchange / Marketplace / Ecosystem": 1,
+      "Product Management": 0,
+      "UX / Design": 0,
+      "Sales / Service / Marketing / Commerce Cloud": 1,
+      "Internal IT / Finance / DET": 0
+    },
+    "Security / Trust / Compliance": {
+      "GTM / Sales / AE / SE / CSM": 6,
+      "Engineering / Platforms / Infrastructure": 8,
+      "Public Sector / Missionforce": 4,
+      "Agentforce / AI Agents": 1,
+      "Data Cloud / Analytics / Tableau": 2,
+      "Security / Trust / Compliance": 0,
+      "Industry Clouds / Vertical": 0,
+      "Marketing / Communications / Creative": 0,
+      "Talent / HR / Employee Success": 0,
+      "MuleSoft / Integration": 2,
+      "Slack / Collaboration": 1,
+      "Partner / AppExchange / Marketplace / Ecosystem": 0,
+      "Product Management": 1,
+      "UX / Design": 0,
+      "Sales / Service / Marketing / Commerce Cloud": 0,
+      "Internal IT / Finance / DET": 0
+    },
+    "Industry Clouds / Vertical": {
+      "GTM / Sales / AE / SE / CSM": 25,
+      "Engineering / Platforms / Infrastructure": 0,
+      "Public Sector / Missionforce": 6,
+      "Agentforce / AI Agents": 2,
+      "Data Cloud / Analytics / Tableau": 3,
+      "Security / Trust / Compliance": 0,
+      "Industry Clouds / Vertical": 0,
+      "Marketing / Communications / Creative": 3,
+      "Talent / HR / Employee Success": 0,
+      "MuleSoft / Integration": 2,
+      "Slack / Collaboration": 1,
+      "Partner / AppExchange / Marketplace / Ecosystem": 0,
+      "Product Management": 0,
+      "UX / Design": 0,
+      "Sales / Service / Marketing / Commerce Cloud": 1,
+      "Internal IT / Finance / DET": 0
+    },
+    "Marketing / Communications / Creative": {
+      "GTM / Sales / AE / SE / CSM": 4,
+      "Engineering / Platforms / Infrastructure": 0,
+      "Public Sector / Missionforce": 1,
+      "Agentforce / AI Agents": 5,
+      "Data Cloud / Analytics / Tableau": 3,
+      "Security / Trust / Compliance": 0,
+      "Industry Clouds / Vertical": 3,
+      "Marketing / Communications / Creative": 0,
+      "Talent / HR / Employee Success": 0,
+      "MuleSoft / Integration": 0,
+      "Slack / Collaboration": 3,
+      "Partner / AppExchange / Marketplace / Ecosystem": 0,
+      "Product Management": 2,
+      "UX / Design": 0,
+      "Sales / Service / Marketing / Commerce Cloud": 2,
+      "Internal IT / Finance / DET": 0
+    },
+    "Talent / HR / Employee Success": {
+      "GTM / Sales / AE / SE / CSM": 1,
+      "Engineering / Platforms / Infrastructure": 0,
+      "Public Sector / Missionforce": 0,
+      "Agentforce / AI Agents": 2,
+      "Data Cloud / Analytics / Tableau": 2,
+      "Security / Trust / Compliance": 0,
+      "Industry Clouds / Vertical": 0,
+      "Marketing / Communications / Creative": 0,
+      "Talent / HR / Employee Success": 0,
+      "MuleSoft / Integration": 0,
+      "Slack / Collaboration": 0,
+      "Partner / AppExchange / Marketplace / Ecosystem": 0,
+      "Product Management": 0,
+      "UX / Design": 0,
+      "Sales / Service / Marketing / Commerce Cloud": 0,
+      "Internal IT / Finance / DET": 0
+    },
+    "MuleSoft / Integration": {
+      "GTM / Sales / AE / SE / CSM": 16,
+      "Engineering / Platforms / Infrastructure": 0,
+      "Public Sector / Missionforce": 1,
+      "Agentforce / AI Agents": 1,
+      "Data Cloud / Analytics / Tableau": 7,
+      "Security / Trust / Compliance": 2,
+      "Industry Clouds / Vertical": 2,
+      "Marketing / Communications / Creative": 0,
+      "Talent / HR / Employee Success": 0,
+      "MuleSoft / Integration": 0,
+      "Slack / Collaboration": 0,
+      "Partner / AppExchange / Marketplace / Ecosystem": 0,
+      "Product Management": 1,
+      "UX / Design": 0,
+      "Sales / Service / Marketing / Commerce Cloud": 0,
+      "Internal IT / Finance / DET": 0
+    },
+    "Slack / Collaboration": {
+      "GTM / Sales / AE / SE / CSM": 4,
+      "Engineering / Platforms / Infrastructure": 5,
+      "Public Sector / Missionforce": 0,
+      "Agentforce / AI Agents": 0,
+      "Data Cloud / Analytics / Tableau": 1,
+      "Security / Trust / Compliance": 1,
+      "Industry Clouds / Vertical": 1,
+      "Marketing / Communications / Creative": 3,
+      "Talent / HR / Employee Success": 0,
+      "MuleSoft / Integration": 0,
+      "Slack / Collaboration": 0,
+      "Partner / AppExchange / Marketplace / Ecosystem": 0,
+      "Product Management": 1,
+      "UX / Design": 1,
+      "Sales / Service / Marketing / Commerce Cloud": 0,
+      "Internal IT / Finance / DET": 0
+    },
+    "Partner / AppExchange / Marketplace / Ecosystem": {
+      "GTM / Sales / AE / SE / CSM": 3,
+      "Engineering / Platforms / Infrastructure": 1,
+      "Public Sector / Missionforce": 0,
+      "Agentforce / AI Agents": 1,
+      "Data Cloud / Analytics / Tableau": 1,
+      "Security / Trust / Compliance": 0,
+      "Industry Clouds / Vertical": 0,
+      "Marketing / Communications / Creative": 0,
+      "Talent / HR / Employee Success": 0,
+      "MuleSoft / Integration": 0,
+      "Slack / Collaboration": 0,
+      "Partner / AppExchange / Marketplace / Ecosystem": 0,
+      "Product Management": 1,
+      "UX / Design": 0,
+      "Sales / Service / Marketing / Commerce Cloud": 0,
+      "Internal IT / Finance / DET": 0
+    },
+    "Product Management": {
+      "GTM / Sales / AE / SE / CSM": 2,
+      "Engineering / Platforms / Infrastructure": 0,
+      "Public Sector / Missionforce": 1,
+      "Agentforce / AI Agents": 5,
+      "Data Cloud / Analytics / Tableau": 0,
+      "Security / Trust / Compliance": 1,
+      "Industry Clouds / Vertical": 0,
+      "Marketing / Communications / Creative": 2,
+      "Talent / HR / Employee Success": 0,
+      "MuleSoft / Integration": 1,
+      "Slack / Collaboration": 1,
+      "Partner / AppExchange / Marketplace / Ecosystem": 1,
+      "Product Management": 0,
+      "UX / Design": 0,
+      "Sales / Service / Marketing / Commerce Cloud": 0,
+      "Internal IT / Finance / DET": 2
+    },
+    "UX / Design": {
+      "GTM / Sales / AE / SE / CSM": 0,
+      "Engineering / Platforms / Infrastructure": 2,
+      "Public Sector / Missionforce": 1,
+      "Agentforce / AI Agents": 0,
+      "Data Cloud / Analytics / Tableau": 0,
+      "Security / Trust / Compliance": 0,
+      "Industry Clouds / Vertical": 0,
+      "Marketing / Communications / Creative": 0,
+      "Talent / HR / Employee Success": 0,
+      "MuleSoft / Integration": 0,
+      "Slack / Collaboration": 1,
+      "Partner / AppExchange / Marketplace / Ecosystem": 0,
+      "Product Management": 0,
+      "UX / Design": 0,
+      "Sales / Service / Marketing / Commerce Cloud": 0,
+      "Internal IT / Finance / DET": 0
+    },
+    "Sales / Service / Marketing / Commerce Cloud": {
+      "GTM / Sales / AE / SE / CSM": 4,
+      "Engineering / Platforms / Infrastructure": 0,
+      "Public Sector / Missionforce": 1,
+      "Agentforce / AI Agents": 0,
+      "Data Cloud / Analytics / Tableau": 1,
+      "Security / Trust / Compliance": 0,
+      "Industry Clouds / Vertical": 1,
+      "Marketing / Communications / Creative": 2,
+      "Talent / HR / Employee Success": 0,
+      "MuleSoft / Integration": 0,
+      "Slack / Collaboration": 0,
+      "Partner / AppExchange / Marketplace / Ecosystem": 0,
+      "Product Management": 0,
+      "UX / Design": 0,
+      "Sales / Service / Marketing / Commerce Cloud": 0,
+      "Internal IT / Finance / DET": 0
+    },
+    "Internal IT / Finance / DET": {
+      "GTM / Sales / AE / SE / CSM": 0,
+      "Engineering / Platforms / Infrastructure": 1,
+      "Public Sector / Missionforce": 0,
+      "Agentforce / AI Agents": 0,
+      "Data Cloud / Analytics / Tableau": 0,
+      "Security / Trust / Compliance": 0,
+      "Industry Clouds / Vertical": 0,
+      "Marketing / Communications / Creative": 0,
+      "Talent / HR / Employee Success": 0,
+      "MuleSoft / Integration": 0,
+      "Slack / Collaboration": 0,
+      "Partner / AppExchange / Marketplace / Ecosystem": 0,
+      "Product Management": 2,
+      "UX / Design": 0,
+      "Sales / Service / Marketing / Commerce Cloud": 0,
+      "Internal IT / Finance / DET": 0
+    }
+  },
+  "derived_counts_note": "Edge weights from title keyword matching (approximate same themes as report). Node sizes use report counts.",
+  "job_theme_index": [
+    {
+      "req": "JR360326",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR352007",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR360316",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR360432",
+      "themes": [
+        "Data Cloud / Analytics / Tableau",
+        "Talent / HR / Employee Success"
+      ]
+    },
+    {
+      "req": "JR358761",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR359491",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR351123",
+      "themes": [
+        "Security / Trust / Compliance"
+      ]
+    },
+    {
+      "req": "JR356148",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Public Sector / Missionforce",
+        "Data Cloud / Analytics / Tableau"
+      ]
+    },
+    {
+      "req": "JR360500",
+      "themes": [
+        "Talent / HR / Employee Success"
+      ]
+    },
+    {
+      "req": "JR355122",
+      "themes": [
+        "Public Sector / Missionforce",
+        "Security / Trust / Compliance"
+      ]
+    },
+    {
+      "req": "JR358244",
+      "themes": [
+        "Engineering / Platforms / Infrastructure",
+        "Agentforce / AI Agents",
+        "Security / Trust / Compliance"
+      ]
+    },
+    {
+      "req": "JR360043",
+      "themes": [
+        "UX / Design"
+      ]
+    },
+    {
+      "req": "JR360044",
+      "themes": [
+        "UX / Design"
+      ]
+    },
+    {
+      "req": "JR356918",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Sales / Service / Marketing / Commerce Cloud"
+      ]
+    },
+    {
+      "req": "JR359055",
+      "themes": [
+        "Agentforce / AI Agents",
+        "Data Cloud / Analytics / Tableau",
+        "Marketing / Communications / Creative"
+      ]
+    },
+    {
+      "req": "JR359224",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Data Cloud / Analytics / Tableau",
+        "MuleSoft / Integration"
+      ]
+    },
+    {
+      "req": "JR359986",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Slack / Collaboration"
+      ]
+    },
+    {
+      "req": "JR359983",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Slack / Collaboration"
+      ]
+    },
+    {
+      "req": "JR359990",
+      "themes": [
+        "Slack / Collaboration"
+      ]
+    },
+    {
+      "req": "JR342027",
+      "themes": [
+        "Engineering / Platforms / Infrastructure",
+        "Agentforce / AI Agents",
+        "Data Cloud / Analytics / Tableau",
+        "Partner / AppExchange / Marketplace / Ecosystem"
+      ]
+    },
+    {
+      "req": "JR360458",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Public Sector / Missionforce"
+      ]
+    },
+    {
+      "req": "JR359157",
+      "themes": [
+        "Data Cloud / Analytics / Tableau"
+      ]
+    },
+    {
+      "req": "JR341439",
+      "themes": [
+        "Talent / HR / Employee Success"
+      ]
+    },
+    {
+      "req": "JR355208",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR358236",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR360408",
+      "themes": [
+        "Slack / Collaboration"
+      ]
+    },
+    {
+      "req": "JR355290",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR332588",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "MuleSoft / Integration"
+      ]
+    },
+    {
+      "req": "JR326962",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Industry Clouds / Vertical"
+      ]
+    },
+    {
+      "req": "JR319958",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Partner / AppExchange / Marketplace / Ecosystem"
+      ]
+    },
+    {
+      "req": "JR336646",
+      "themes": [
+        "Agentforce / AI Agents",
+        "Data Cloud / Analytics / Tableau"
+      ]
+    },
+    {
+      "req": "JR282637",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "MuleSoft / Integration"
+      ]
+    },
+    {
+      "req": "JR355677",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Public Sector / Missionforce"
+      ]
+    },
+    {
+      "req": "JR349298",
+      "themes": [
+        "Talent / HR / Employee Success"
+      ]
+    },
+    {
+      "req": "JR353867",
+      "themes": [
+        "Agentforce / AI Agents",
+        "Marketing / Communications / Creative"
+      ]
+    },
+    {
+      "req": "JR360431",
+      "themes": []
+    },
+    {
+      "req": "JR360428",
+      "themes": [
+        "Data Cloud / Analytics / Tableau"
+      ]
+    },
+    {
+      "req": "JR360310",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR359834",
+      "themes": [
+        "Security / Trust / Compliance"
+      ]
+    },
+    {
+      "req": "JR360200",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR359991",
+      "themes": []
+    },
+    {
+      "req": "JR353652",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR359790",
+      "themes": [
+        "Engineering / Platforms / Infrastructure",
+        "Security / Trust / Compliance"
+      ]
+    },
+    {
+      "req": "JR337145",
+      "themes": []
+    },
+    {
+      "req": "JR357256",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR347795",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Data Cloud / Analytics / Tableau"
+      ]
+    },
+    {
+      "req": "JR360300",
+      "themes": [
+        "Talent / HR / Employee Success"
+      ]
+    },
+    {
+      "req": "JR360389",
+      "themes": []
+    },
+    {
+      "req": "JR355611",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Industry Clouds / Vertical"
+      ]
+    },
+    {
+      "req": "JR332452",
+      "themes": [
+        "Security / Trust / Compliance"
+      ]
+    },
+    {
+      "req": "JR352220",
+      "themes": [
+        "Talent / HR / Employee Success"
+      ]
+    },
+    {
+      "req": "JR359612",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR353498",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR341872",
+      "themes": [
+        "Agentforce / AI Agents"
+      ]
+    },
+    {
+      "req": "JR357041",
+      "themes": [
+        "Marketing / Communications / Creative"
+      ]
+    },
+    {
+      "req": "JR345905",
+      "themes": [
+        "Talent / HR / Employee Success"
+      ]
+    },
+    {
+      "req": "JR360015",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Agentforce / AI Agents",
+        "Marketing / Communications / Creative"
+      ]
+    },
+    {
+      "req": "JR336652",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Public Sector / Missionforce",
+        "Agentforce / AI Agents"
+      ]
+    },
+    {
+      "req": "JR359942",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Industry Clouds / Vertical"
+      ]
+    },
+    {
+      "req": "JR359771",
+      "themes": []
+    },
+    {
+      "req": "JR359494",
+      "themes": [
+        "Partner / AppExchange / Marketplace / Ecosystem"
+      ]
+    },
+    {
+      "req": "JR359573",
+      "themes": [
+        "Data Cloud / Analytics / Tableau",
+        "Marketing / Communications / Creative"
+      ]
+    },
+    {
+      "req": "JR354325",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR360116",
+      "themes": []
+    },
+    {
+      "req": "JR357453",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR343794",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Agentforce / AI Agents"
+      ]
+    },
+    {
+      "req": "JR332986",
+      "themes": []
+    },
+    {
+      "req": "JR355132",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Industry Clouds / Vertical"
+      ]
+    },
+    {
+      "req": "JR355163",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Industry Clouds / Vertical",
+        "MuleSoft / Integration"
+      ]
+    },
+    {
+      "req": "JR357884",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR360287",
+      "themes": []
+    },
+    {
+      "req": "JR356609",
+      "themes": [
+        "Engineering / Platforms / Infrastructure",
+        "Slack / Collaboration"
+      ]
+    },
+    {
+      "req": "JR359424",
+      "themes": [
+        "UX / Design"
+      ]
+    },
+    {
+      "req": "JR359732",
+      "themes": []
+    },
+    {
+      "req": "JR357927",
+      "themes": [
+        "Security / Trust / Compliance"
+      ]
+    },
+    {
+      "req": "JR347839",
+      "themes": [
+        "Agentforce / AI Agents",
+        "Industry Clouds / Vertical"
+      ]
+    },
+    {
+      "req": "JR359595",
+      "themes": [
+        "Marketing / Communications / Creative"
+      ]
+    },
+    {
+      "req": "JR356566",
+      "themes": []
+    },
+    {
+      "req": "JR359791",
+      "themes": [
+        "Engineering / Platforms / Infrastructure",
+        "Slack / Collaboration"
+      ]
+    },
+    {
+      "req": "JR351285",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Industry Clouds / Vertical"
+      ]
+    },
+    {
+      "req": "JR347428",
+      "themes": [
+        "Security / Trust / Compliance"
+      ]
+    },
+    {
+      "req": "JR359606",
+      "themes": [
+        "Agentforce / AI Agents"
+      ]
+    },
+    {
+      "req": "JR357265",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR356759",
+      "themes": []
+    },
+    {
+      "req": "JR351844",
+      "themes": [
+        "Public Sector / Missionforce"
+      ]
+    },
+    {
+      "req": "JR359084",
+      "themes": [
+        "Talent / HR / Employee Success"
+      ]
+    },
+    {
+      "req": "JR350925",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR358388",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR339261",
+      "themes": [
+        "Engineering / Platforms / Infrastructure",
+        "Agentforce / AI Agents"
+      ]
+    },
+    {
+      "req": "JR341315",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR354092",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR359804",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR360134",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR355452",
+      "themes": []
+    },
+    {
+      "req": "JR348166",
+      "themes": [
+        "Talent / HR / Employee Success"
+      ]
+    },
+    {
+      "req": "JR359754",
+      "themes": []
+    },
+    {
+      "req": "JR359460",
+      "themes": [
+        "Agentforce / AI Agents"
+      ]
+    },
+    {
+      "req": "JR354095",
+      "themes": []
+    },
+    {
+      "req": "JR359070",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR359021",
+      "themes": [
+        "Security / Trust / Compliance"
+      ]
+    },
+    {
+      "req": "JR359178",
+      "themes": [
+        "Security / Trust / Compliance",
+        "Product Management"
+      ]
+    },
+    {
+      "req": "JR358431",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Public Sector / Missionforce"
+      ]
+    },
+    {
+      "req": "JR349406",
+      "themes": []
+    },
+    {
+      "req": "JR359260",
+      "themes": [
+        "Public Sector / Missionforce",
+        "Security / Trust / Compliance"
+      ]
+    },
+    {
+      "req": "JR357822",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR356665",
+      "themes": []
+    },
+    {
+      "req": "JR338512",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Public Sector / Missionforce"
+      ]
+    },
+    {
+      "req": "JR358501",
+      "themes": [
+        "Security / Trust / Compliance"
+      ]
+    },
+    {
+      "req": "JR359476",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR359265",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Industry Clouds / Vertical"
+      ]
+    },
+    {
+      "req": "JR359266",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Industry Clouds / Vertical"
+      ]
+    },
+    {
+      "req": "JR332958",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Industry Clouds / Vertical"
+      ]
+    },
+    {
+      "req": "JR332964",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Industry Clouds / Vertical"
+      ]
+    },
+    {
+      "req": "JR355443",
+      "themes": [
+        "UX / Design"
+      ]
+    },
+    {
+      "req": "JR349284",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR359561",
+      "themes": [
+        "Data Cloud / Analytics / Tableau"
+      ]
+    },
+    {
+      "req": "JR359685",
+      "themes": []
+    },
+    {
+      "req": "JR359504",
+      "themes": []
+    },
+    {
+      "req": "JR339073",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR358844",
+      "themes": [
+        "Marketing / Communications / Creative"
+      ]
+    },
+    {
+      "req": "JR358683",
+      "themes": [
+        "Marketing / Communications / Creative"
+      ]
+    },
+    {
+      "req": "JR349826",
+      "themes": [
+        "Agentforce / AI Agents",
+        "Talent / HR / Employee Success"
+      ]
+    },
+    {
+      "req": "JR357770",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR357769",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR309445",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Public Sector / Missionforce"
+      ]
+    },
+    {
+      "req": "JR357399",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR347084",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR359249",
+      "themes": [
+        "Marketing / Communications / Creative"
+      ]
+    },
+    {
+      "req": "JR359977",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR359066",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR354027",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR350284",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR359042",
+      "themes": [
+        "Data Cloud / Analytics / Tableau"
+      ]
+    },
+    {
+      "req": "JR359226",
+      "themes": []
+    },
+    {
+      "req": "JR359787",
+      "themes": [
+        "Engineering / Platforms / Infrastructure",
+        "Security / Trust / Compliance"
+      ]
+    },
+    {
+      "req": "JR357901",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR343368",
+      "themes": [
+        "Slack / Collaboration"
+      ]
+    },
+    {
+      "req": "JR359638",
+      "themes": []
+    },
+    {
+      "req": "JR359843",
+      "themes": []
+    },
+    {
+      "req": "JR359214",
+      "themes": []
+    },
+    {
+      "req": "JR355156",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR359840",
+      "themes": [
+        "Talent / HR / Employee Success"
+      ]
+    },
+    {
+      "req": "JR359221",
+      "themes": [
+        "Data Cloud / Analytics / Tableau"
+      ]
+    },
+    {
+      "req": "JR359807",
+      "themes": []
+    },
+    {
+      "req": "JR359637",
+      "themes": []
+    },
+    {
+      "req": "JR359539",
+      "themes": []
+    },
+    {
+      "req": "JR355801",
+      "themes": [
+        "Product Management",
+        "Internal IT / Finance / DET"
+      ]
+    },
+    {
+      "req": "JR356018",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Data Cloud / Analytics / Tableau"
+      ]
+    },
+    {
+      "req": "JR329338",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "MuleSoft / Integration"
+      ]
+    },
+    {
+      "req": "JR355351",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Sales / Service / Marketing / Commerce Cloud"
+      ]
+    },
+    {
+      "req": "JR356282",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR358580",
+      "themes": [
+        "Agentforce / AI Agents"
+      ]
+    },
+    {
+      "req": "JR359453",
+      "themes": []
+    },
+    {
+      "req": "JR358437",
+      "themes": [
+        "Security / Trust / Compliance"
+      ]
+    },
+    {
+      "req": "JR353202",
+      "themes": []
+    },
+    {
+      "req": "JR359585",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR359584",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR354990",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Public Sector / Missionforce"
+      ]
+    },
+    {
+      "req": "JR358362",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR351279",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR359469",
+      "themes": [
+        "Talent / HR / Employee Success"
+      ]
+    },
+    {
+      "req": "JR347850",
+      "themes": []
+    },
+    {
+      "req": "JR355589",
+      "themes": []
+    },
+    {
+      "req": "JR358677",
+      "themes": [
+        "Marketing / Communications / Creative"
+      ]
+    },
+    {
+      "req": "JR354972",
+      "themes": []
+    },
+    {
+      "req": "JR358400",
+      "themes": []
+    },
+    {
+      "req": "JR357694",
+      "themes": []
+    },
+    {
+      "req": "JR358759",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Data Cloud / Analytics / Tableau",
+        "Industry Clouds / Vertical"
+      ]
+    },
+    {
+      "req": "JR352830",
+      "themes": []
+    },
+    {
+      "req": "JR332573",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR331878",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Data Cloud / Analytics / Tableau"
+      ]
+    },
+    {
+      "req": "JR352010",
+      "themes": []
+    },
+    {
+      "req": "JR359254",
+      "themes": []
+    },
+    {
+      "req": "JR356455",
+      "themes": [
+        "Slack / Collaboration",
+        "Product Management"
+      ]
+    },
+    {
+      "req": "JR355119",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR332336",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR358294",
+      "themes": [
+        "Talent / HR / Employee Success"
+      ]
+    },
+    {
+      "req": "JR354750",
+      "themes": [
+        "Industry Clouds / Vertical"
+      ]
+    },
+    {
+      "req": "JR357981",
+      "themes": [
+        "Engineering / Platforms / Infrastructure",
+        "Security / Trust / Compliance",
+        "Slack / Collaboration"
+      ]
+    },
+    {
+      "req": "JR359227",
+      "themes": []
+    },
+    {
+      "req": "JR358867",
+      "themes": [
+        "Agentforce / AI Agents"
+      ]
+    },
+    {
+      "req": "JR357716",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR357789",
+      "themes": []
+    },
+    {
+      "req": "JR358682",
+      "themes": [
+        "Talent / HR / Employee Success"
+      ]
+    },
+    {
+      "req": "JR356908",
+      "themes": []
+    },
+    {
+      "req": "JR357970",
+      "themes": []
+    },
+    {
+      "req": "JR359006",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR358730",
+      "themes": []
+    },
+    {
+      "req": "JR357982",
+      "themes": [
+        "Marketing / Communications / Creative"
+      ]
+    },
+    {
+      "req": "JR357962",
+      "themes": [
+        "Engineering / Platforms / Infrastructure",
+        "UX / Design"
+      ]
+    },
+    {
+      "req": "JR347118",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Data Cloud / Analytics / Tableau",
+        "MuleSoft / Integration"
+      ]
+    },
+    {
+      "req": "JR347076",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Data Cloud / Analytics / Tableau",
+        "MuleSoft / Integration"
+      ]
+    },
+    {
+      "req": "JR347125",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Data Cloud / Analytics / Tableau",
+        "MuleSoft / Integration"
+      ]
+    },
+    {
+      "req": "JR347097",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Data Cloud / Analytics / Tableau",
+        "MuleSoft / Integration"
+      ]
+    },
+    {
+      "req": "JR358959",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR356733",
+      "themes": []
+    },
+    {
+      "req": "JR358366",
+      "themes": []
+    },
+    {
+      "req": "JR345696",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Public Sector / Missionforce",
+        "Security / Trust / Compliance"
+      ]
+    },
+    {
+      "req": "JR309447",
+      "themes": [
+        "Public Sector / Missionforce"
+      ]
+    },
+    {
+      "req": "JR345876",
+      "themes": [
+        "Data Cloud / Analytics / Tableau"
+      ]
+    },
+    {
+      "req": "JR358958",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "MuleSoft / Integration"
+      ]
+    },
+    {
+      "req": "JR358644",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR355624",
+      "themes": [
+        "Internal IT / Finance / DET"
+      ]
+    },
+    {
+      "req": "JR338533",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Public Sector / Missionforce"
+      ]
+    },
+    {
+      "req": "JR346989",
+      "themes": [
+        "Sales / Service / Marketing / Commerce Cloud"
+      ]
+    },
+    {
+      "req": "JR357800",
+      "themes": [
+        "Industry Clouds / Vertical",
+        "Marketing / Communications / Creative"
+      ]
+    },
+    {
+      "req": "JR358869",
+      "themes": [
+        "Slack / Collaboration",
+        "UX / Design"
+      ]
+    },
+    {
+      "req": "JR357580",
+      "themes": [
+        "Internal IT / Finance / DET"
+      ]
+    },
+    {
+      "req": "JR341128",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR357577",
+      "themes": [
+        "Security / Trust / Compliance"
+      ]
+    },
+    {
+      "req": "JR346360",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Data Cloud / Analytics / Tableau",
+        "Marketing / Communications / Creative",
+        "Sales / Service / Marketing / Commerce Cloud"
+      ]
+    },
+    {
+      "req": "JR355872",
+      "themes": [
+        "Security / Trust / Compliance"
+      ]
+    },
+    {
+      "req": "JR287441",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR355838",
+      "themes": []
+    },
+    {
+      "req": "JR356403",
+      "themes": []
+    },
+    {
+      "req": "JR356413",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Talent / HR / Employee Success"
+      ]
+    },
+    {
+      "req": "JR358352",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR358364",
+      "themes": [
+        "Industry Clouds / Vertical"
+      ]
+    },
+    {
+      "req": "JR355963",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR348004",
+      "themes": []
+    },
+    {
+      "req": "JR347890",
+      "themes": [
+        "Marketing / Communications / Creative"
+      ]
+    },
+    {
+      "req": "JR356125",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR358417",
+      "themes": []
+    },
+    {
+      "req": "JR358662",
+      "themes": [
+        "Engineering / Platforms / Infrastructure",
+        "Security / Trust / Compliance"
+      ]
+    },
+    {
+      "req": "JR358103",
+      "themes": [
+        "Industry Clouds / Vertical",
+        "Marketing / Communications / Creative"
+      ]
+    },
+    {
+      "req": "JR356261",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR292909",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR342302",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Public Sector / Missionforce"
+      ]
+    },
+    {
+      "req": "JR338637",
+      "themes": [
+        "Security / Trust / Compliance"
+      ]
+    },
+    {
+      "req": "JR358233",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR358423",
+      "themes": [
+        "Security / Trust / Compliance"
+      ]
+    },
+    {
+      "req": "JR357077",
+      "themes": []
+    },
+    {
+      "req": "JR358245",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR357692",
+      "themes": [
+        "Public Sector / Missionforce",
+        "Security / Trust / Compliance"
+      ]
+    },
+    {
+      "req": "JR355955",
+      "themes": [
+        "Marketing / Communications / Creative"
+      ]
+    },
+    {
+      "req": "JR356620",
+      "themes": []
+    },
+    {
+      "req": "JR351324",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Agentforce / AI Agents"
+      ]
+    },
+    {
+      "req": "JR354072",
+      "themes": []
+    },
+    {
+      "req": "JR340771",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR352645",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Public Sector / Missionforce"
+      ]
+    },
+    {
+      "req": "JR355248",
+      "themes": [
+        "Product Management"
+      ]
+    },
+    {
+      "req": "JR356207",
+      "themes": [
+        "Industry Clouds / Vertical"
+      ]
+    },
+    {
+      "req": "JR355977",
+      "themes": [
+        "Industry Clouds / Vertical"
+      ]
+    },
+    {
+      "req": "JR357678",
+      "themes": [
+        "Talent / HR / Employee Success"
+      ]
+    },
+    {
+      "req": "JR358273",
+      "themes": [
+        "Industry Clouds / Vertical"
+      ]
+    },
+    {
+      "req": "JR357948",
+      "themes": []
+    },
+    {
+      "req": "JR356006",
+      "themes": [
+        "Public Sector / Missionforce",
+        "UX / Design"
+      ]
+    },
+    {
+      "req": "JR357882",
+      "themes": [
+        "Partner / AppExchange / Marketplace / Ecosystem"
+      ]
+    },
+    {
+      "req": "JR342544",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR356786",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Industry Clouds / Vertical"
+      ]
+    },
+    {
+      "req": "JR346062",
+      "themes": [
+        "Security / Trust / Compliance"
+      ]
+    },
+    {
+      "req": "JR357121",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Data Cloud / Analytics / Tableau",
+        "Security / Trust / Compliance"
+      ]
+    },
+    {
+      "req": "JR333757",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Agentforce / AI Agents"
+      ]
+    },
+    {
+      "req": "JR352370",
+      "themes": [
+        "Data Cloud / Analytics / Tableau"
+      ]
+    },
+    {
+      "req": "JR352362",
+      "themes": [
+        "MuleSoft / Integration"
+      ]
+    },
+    {
+      "req": "JR357608",
+      "themes": [
+        "Agentforce / AI Agents",
+        "Product Management"
+      ]
+    },
+    {
+      "req": "JR342860",
+      "themes": []
+    },
+    {
+      "req": "JR346775",
+      "themes": []
+    },
+    {
+      "req": "JR355134",
+      "themes": [
+        "Marketing / Communications / Creative"
+      ]
+    },
+    {
+      "req": "JR341884",
+      "themes": [
+        "Slack / Collaboration"
+      ]
+    },
+    {
+      "req": "JR331314",
+      "themes": [
+        "Public Sector / Missionforce"
+      ]
+    },
+    {
+      "req": "JR352072",
+      "themes": []
+    },
+    {
+      "req": "JR341442",
+      "themes": []
+    },
+    {
+      "req": "JR357259",
+      "themes": [
+        "Security / Trust / Compliance"
+      ]
+    },
+    {
+      "req": "JR357445",
+      "themes": []
+    },
+    {
+      "req": "JR355654",
+      "themes": []
+    },
+    {
+      "req": "JR357221",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Public Sector / Missionforce"
+      ]
+    },
+    {
+      "req": "JR351110",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR357405",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Industry Clouds / Vertical"
+      ]
+    },
+    {
+      "req": "JR355645",
+      "themes": [
+        "Engineering / Platforms / Infrastructure",
+        "Agentforce / AI Agents"
+      ]
+    },
+    {
+      "req": "JR357797",
+      "themes": [
+        "Public Sector / Missionforce"
+      ]
+    },
+    {
+      "req": "JR214107",
+      "themes": [
+        "Agentforce / AI Agents"
+      ]
+    },
+    {
+      "req": "JR356128",
+      "themes": [
+        "Security / Trust / Compliance"
+      ]
+    },
+    {
+      "req": "JR355969",
+      "themes": [
+        "Engineering / Platforms / Infrastructure",
+        "Slack / Collaboration"
+      ]
+    },
+    {
+      "req": "JR355350",
+      "themes": [
+        "Agentforce / AI Agents",
+        "Marketing / Communications / Creative",
+        "Product Management"
+      ]
+    },
+    {
+      "req": "JR354930",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR346503",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Data Cloud / Analytics / Tableau",
+        "Security / Trust / Compliance"
+      ]
+    },
+    {
+      "req": "JR352952",
+      "themes": [
+        "Public Sector / Missionforce"
+      ]
+    },
+    {
+      "req": "JR357242",
+      "themes": []
+    },
+    {
+      "req": "JR357427",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Agentforce / AI Agents"
+      ]
+    },
+    {
+      "req": "JR357428",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Data Cloud / Analytics / Tableau"
+      ]
+    },
+    {
+      "req": "JR349475",
+      "themes": [
+        "Talent / HR / Employee Success"
+      ]
+    },
+    {
+      "req": "JR356721",
+      "themes": []
+    },
+    {
+      "req": "JR353752",
+      "themes": [
+        "UX / Design"
+      ]
+    },
+    {
+      "req": "JR352828",
+      "themes": [
+        "Industry Clouds / Vertical"
+      ]
+    },
+    {
+      "req": "JR353288",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Public Sector / Missionforce"
+      ]
+    },
+    {
+      "req": "JR342507",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR354315",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Product Management"
+      ]
+    },
+    {
+      "req": "JR353864",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Public Sector / Missionforce",
+        "Industry Clouds / Vertical",
+        "Marketing / Communications / Creative",
+        "Sales / Service / Marketing / Commerce Cloud"
+      ]
+    },
+    {
+      "req": "JR346496",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Public Sector / Missionforce",
+        "Data Cloud / Analytics / Tableau"
+      ]
+    },
+    {
+      "req": "JR321396",
+      "themes": []
+    },
+    {
+      "req": "JR352025",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR356671",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Agentforce / AI Agents",
+        "Data Cloud / Analytics / Tableau"
+      ]
+    },
+    {
+      "req": "JR355649",
+      "themes": []
+    },
+    {
+      "req": "JR347729",
+      "themes": []
+    },
+    {
+      "req": "JR356597",
+      "themes": []
+    },
+    {
+      "req": "JR357072",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR357070",
+      "themes": [
+        "Security / Trust / Compliance"
+      ]
+    },
+    {
+      "req": "JR355436",
+      "themes": []
+    },
+    {
+      "req": "JR354753",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR357000",
+      "themes": []
+    },
+    {
+      "req": "JR355978",
+      "themes": [
+        "Industry Clouds / Vertical"
+      ]
+    },
+    {
+      "req": "JR356645",
+      "themes": [
+        "Public Sector / Missionforce"
+      ]
+    },
+    {
+      "req": "JR350894",
+      "themes": [
+        "Engineering / Platforms / Infrastructure",
+        "UX / Design"
+      ]
+    },
+    {
+      "req": "JR338546",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR354059",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR356909",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR354706",
+      "themes": []
+    },
+    {
+      "req": "JR349773",
+      "themes": [
+        "Agentforce / AI Agents"
+      ]
+    },
+    {
+      "req": "JR356854",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Public Sector / Missionforce"
+      ]
+    },
+    {
+      "req": "JR355117",
+      "themes": []
+    },
+    {
+      "req": "JR353143",
+      "themes": [
+        "Partner / AppExchange / Marketplace / Ecosystem",
+        "Product Management"
+      ]
+    },
+    {
+      "req": "JR355806",
+      "themes": [
+        "Public Sector / Missionforce"
+      ]
+    },
+    {
+      "req": "JR355463",
+      "themes": []
+    },
+    {
+      "req": "JR356574",
+      "themes": [
+        "Talent / HR / Employee Success"
+      ]
+    },
+    {
+      "req": "JR353163",
+      "themes": []
+    },
+    {
+      "req": "JR351058",
+      "themes": []
+    },
+    {
+      "req": "JR343815",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR356593",
+      "themes": [
+        "Marketing / Communications / Creative",
+        "Slack / Collaboration"
+      ]
+    },
+    {
+      "req": "JR355639",
+      "themes": [
+        "Marketing / Communications / Creative"
+      ]
+    },
+    {
+      "req": "JR355656",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Public Sector / Missionforce"
+      ]
+    },
+    {
+      "req": "JR341183",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR355986",
+      "themes": []
+    },
+    {
+      "req": "JR356127",
+      "themes": []
+    },
+    {
+      "req": "JR331310",
+      "themes": [
+        "Public Sector / Missionforce"
+      ]
+    },
+    {
+      "req": "JR279827",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Agentforce / AI Agents"
+      ]
+    },
+    {
+      "req": "JR350557",
+      "themes": []
+    },
+    {
+      "req": "JR318476",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Industry Clouds / Vertical"
+      ]
+    },
+    {
+      "req": "JR356439",
+      "themes": [
+        "Marketing / Communications / Creative"
+      ]
+    },
+    {
+      "req": "JR356432",
+      "themes": [
+        "Marketing / Communications / Creative"
+      ]
+    },
+    {
+      "req": "JR332514",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Public Sector / Missionforce"
+      ]
+    },
+    {
+      "req": "JR355774",
+      "themes": [
+        "Marketing / Communications / Creative"
+      ]
+    },
+    {
+      "req": "JR356268",
+      "themes": [
+        "Public Sector / Missionforce",
+        "Agentforce / AI Agents",
+        "Product Management"
+      ]
+    },
+    {
+      "req": "JR347374",
+      "themes": [
+        "Engineering / Platforms / Infrastructure",
+        "Internal IT / Finance / DET"
+      ]
+    },
+    {
+      "req": "JR354037",
+      "themes": [
+        "Agentforce / AI Agents",
+        "Product Management"
+      ]
+    },
+    {
+      "req": "JR341991",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Public Sector / Missionforce"
+      ]
+    },
+    {
+      "req": "JR355535",
+      "themes": []
+    },
+    {
+      "req": "JR334544",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR353585",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR352048",
+      "themes": [
+        "Industry Clouds / Vertical"
+      ]
+    },
+    {
+      "req": "JR354177",
+      "themes": [
+        "Public Sector / Missionforce"
+      ]
+    },
+    {
+      "req": "JR345412",
+      "themes": [
+        "Security / Trust / Compliance"
+      ]
+    },
+    {
+      "req": "JR343227",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR355927",
+      "themes": []
+    },
+    {
+      "req": "JR356010",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR355962",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR355414",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR343623",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR345835",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR352033",
+      "themes": [
+        "Product Management"
+      ]
+    },
+    {
+      "req": "JR354521",
+      "themes": [
+        "Engineering / Platforms / Infrastructure",
+        "Slack / Collaboration"
+      ]
+    },
+    {
+      "req": "JR355680",
+      "themes": []
+    },
+    {
+      "req": "JR353560",
+      "themes": [
+        "Agentforce / AI Agents",
+        "MuleSoft / Integration",
+        "Product Management"
+      ]
+    },
+    {
+      "req": "JR355143",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR347404",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Public Sector / Missionforce"
+      ]
+    },
+    {
+      "req": "JR354555",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Data Cloud / Analytics / Tableau",
+        "Industry Clouds / Vertical",
+        "Slack / Collaboration"
+      ]
+    },
+    {
+      "req": "JR353388",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR340890",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Data Cloud / Analytics / Tableau"
+      ]
+    },
+    {
+      "req": "JR355681",
+      "themes": []
+    },
+    {
+      "req": "JR332446",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Public Sector / Missionforce",
+        "Industry Clouds / Vertical"
+      ]
+    },
+    {
+      "req": "JR346977",
+      "themes": [
+        "Talent / HR / Employee Success"
+      ]
+    },
+    {
+      "req": "JR352724",
+      "themes": [
+        "Engineering / Platforms / Infrastructure",
+        "Agentforce / AI Agents"
+      ]
+    },
+    {
+      "req": "JR344115",
+      "themes": [
+        "Slack / Collaboration"
+      ]
+    },
+    {
+      "req": "JR249834",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR253369",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR249832",
+      "themes": []
+    },
+    {
+      "req": "JR354681",
+      "themes": []
+    },
+    {
+      "req": "JR355250",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR352350",
+      "themes": []
+    },
+    {
+      "req": "JR354018",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Partner / AppExchange / Marketplace / Ecosystem"
+      ]
+    },
+    {
+      "req": "JR347062",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Data Cloud / Analytics / Tableau",
+        "MuleSoft / Integration"
+      ]
+    },
+    {
+      "req": "JR297762",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Data Cloud / Analytics / Tableau",
+        "MuleSoft / Integration"
+      ]
+    },
+    {
+      "req": "JR347079",
+      "themes": [
+        "Data Cloud / Analytics / Tableau",
+        "Talent / HR / Employee Success"
+      ]
+    },
+    {
+      "req": "JR354310",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR353351",
+      "themes": []
+    },
+    {
+      "req": "JR351656",
+      "themes": []
+    },
+    {
+      "req": "JR341033",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR354534",
+      "themes": [
+        "Data Cloud / Analytics / Tableau"
+      ]
+    },
+    {
+      "req": "JR351635",
+      "themes": [
+        "Product Management",
+        "Internal IT / Finance / DET"
+      ]
+    },
+    {
+      "req": "JR347407",
+      "themes": []
+    },
+    {
+      "req": "JR354526",
+      "themes": [
+        "Marketing / Communications / Creative"
+      ]
+    },
+    {
+      "req": "JR329820",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Data Cloud / Analytics / Tableau"
+      ]
+    },
+    {
+      "req": "JR332959",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR332963",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR353222",
+      "themes": [
+        "Marketing / Communications / Creative"
+      ]
+    },
+    {
+      "req": "JR352439",
+      "themes": [
+        "Engineering / Platforms / Infrastructure",
+        "Security / Trust / Compliance"
+      ]
+    },
+    {
+      "req": "JR333947",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR352985",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "MuleSoft / Integration"
+      ]
+    },
+    {
+      "req": "JR283068",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR349769",
+      "themes": [
+        "Product Management"
+      ]
+    },
+    {
+      "req": "JR351029",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR351039",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR340587",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR352982",
+      "themes": [
+        "Marketing / Communications / Creative"
+      ]
+    },
+    {
+      "req": "JR351328",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Data Cloud / Analytics / Tableau"
+      ]
+    },
+    {
+      "req": "JR352740",
+      "themes": [
+        "Marketing / Communications / Creative",
+        "Slack / Collaboration"
+      ]
+    },
+    {
+      "req": "JR351543",
+      "themes": [
+        "Product Management"
+      ]
+    },
+    {
+      "req": "JR318491",
+      "themes": []
+    },
+    {
+      "req": "JR347898",
+      "themes": []
+    },
+    {
+      "req": "JR342765",
+      "themes": [
+        "Engineering / Platforms / Infrastructure",
+        "Security / Trust / Compliance"
+      ]
+    },
+    {
+      "req": "JR332482",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Public Sector / Missionforce",
+        "Industry Clouds / Vertical",
+        "MuleSoft / Integration"
+      ]
+    },
+    {
+      "req": "JR345396",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Partner / AppExchange / Marketplace / Ecosystem"
+      ]
+    },
+    {
+      "req": "JR352210",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR350132",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Public Sector / Missionforce"
+      ]
+    },
+    {
+      "req": "JR341843",
+      "themes": []
+    },
+    {
+      "req": "JR339427",
+      "themes": []
+    },
+    {
+      "req": "JR352406",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR353088",
+      "themes": [
+        "MuleSoft / Integration"
+      ]
+    },
+    {
+      "req": "JR348019",
+      "themes": [
+        "Agentforce / AI Agents",
+        "Marketing / Communications / Creative"
+      ]
+    },
+    {
+      "req": "JR350807",
+      "themes": []
+    },
+    {
+      "req": "JR345631",
+      "themes": [
+        "Security / Trust / Compliance"
+      ]
+    },
+    {
+      "req": "JR351997",
+      "themes": [
+        "Partner / AppExchange / Marketplace / Ecosystem"
+      ]
+    },
+    {
+      "req": "JR348161",
+      "themes": []
+    },
+    {
+      "req": "JR352223",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Public Sector / Missionforce",
+        "Industry Clouds / Vertical"
+      ]
+    },
+    {
+      "req": "JR352183",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR352189",
+      "themes": [
+        "Public Sector / Missionforce",
+        "Industry Clouds / Vertical"
+      ]
+    },
+    {
+      "req": "JR337930",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Public Sector / Missionforce"
+      ]
+    },
+    {
+      "req": "JR293189",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Industry Clouds / Vertical"
+      ]
+    },
+    {
+      "req": "JR345291",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR350310",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR351153",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Security / Trust / Compliance"
+      ]
+    },
+    {
+      "req": "JR349509",
+      "themes": [
+        "Talent / HR / Employee Success"
+      ]
+    },
+    {
+      "req": "JR350478",
+      "themes": [
+        "Agentforce / AI Agents"
+      ]
+    },
+    {
+      "req": "JR329013",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Agentforce / AI Agents"
+      ]
+    },
+    {
+      "req": "JR351486",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR343654",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR302303",
+      "themes": [
+        "Talent / HR / Employee Success"
+      ]
+    },
+    {
+      "req": "JR347103",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR345632",
+      "themes": [
+        "Engineering / Platforms / Infrastructure",
+        "Security / Trust / Compliance"
+      ]
+    },
+    {
+      "req": "JR344731",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR350618",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Slack / Collaboration"
+      ]
+    },
+    {
+      "req": "JR349262",
+      "themes": [
+        "Agentforce / AI Agents",
+        "Data Cloud / Analytics / Tableau"
+      ]
+    },
+    {
+      "req": "JR350621",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Marketing / Communications / Creative",
+        "Product Management"
+      ]
+    },
+    {
+      "req": "JR317953",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR344986",
+      "themes": []
+    },
+    {
+      "req": "JR303819",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR339452",
+      "themes": [
+        "MuleSoft / Integration"
+      ]
+    },
+    {
+      "req": "JR342077",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR345252",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR332510",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR349466",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR332579",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Data Cloud / Analytics / Tableau"
+      ]
+    },
+    {
+      "req": "JR349478",
+      "themes": []
+    },
+    {
+      "req": "JR349467",
+      "themes": []
+    },
+    {
+      "req": "JR346502",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Data Cloud / Analytics / Tableau"
+      ]
+    },
+    {
+      "req": "JR318273",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR346993",
+      "themes": []
+    },
+    {
+      "req": "JR283077",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR344487",
+      "themes": [
+        "Product Management"
+      ]
+    },
+    {
+      "req": "JR318263",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR342138",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Data Cloud / Analytics / Tableau"
+      ]
+    },
+    {
+      "req": "JR341034",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Data Cloud / Analytics / Tableau"
+      ]
+    },
+    {
+      "req": "JR341032",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Data Cloud / Analytics / Tableau"
+      ]
+    },
+    {
+      "req": "JR279911",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Public Sector / Missionforce",
+        "Agentforce / AI Agents",
+        "Data Cloud / Analytics / Tableau",
+        "Industry Clouds / Vertical"
+      ]
+    },
+    {
+      "req": "JR345703",
+      "themes": [
+        "Agentforce / AI Agents",
+        "Talent / HR / Employee Success"
+      ]
+    },
+    {
+      "req": "JR328814",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR297781",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Agentforce / AI Agents",
+        "Data Cloud / Analytics / Tableau"
+      ]
+    },
+    {
+      "req": "JR340462",
+      "themes": [
+        "Engineering / Platforms / Infrastructure",
+        "Agentforce / AI Agents"
+      ]
+    },
+    {
+      "req": "JR332500",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR318479",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Industry Clouds / Vertical"
+      ]
+    },
+    {
+      "req": "JR310259",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR283086",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR283079",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR333171",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Public Sector / Missionforce"
+      ]
+    },
+    {
+      "req": "JR212094",
+      "themes": []
+    },
+    {
+      "req": "JR332489",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR332516",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR340390",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Security / Trust / Compliance",
+        "MuleSoft / Integration"
+      ]
+    },
+    {
+      "req": "JR344060",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR343933",
+      "themes": [
+        "Agentforce / AI Agents"
+      ]
+    },
+    {
+      "req": "JR339768",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Data Cloud / Analytics / Tableau"
+      ]
+    },
+    {
+      "req": "JR328401",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Public Sector / Missionforce",
+        "Data Cloud / Analytics / Tableau"
+      ]
+    },
+    {
+      "req": "JR345742",
+      "themes": [
+        "Talent / HR / Employee Success"
+      ]
+    },
+    {
+      "req": "JR342001",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Public Sector / Missionforce"
+      ]
+    },
+    {
+      "req": "JR345672",
+      "themes": []
+    },
+    {
+      "req": "JR345067",
+      "themes": []
+    },
+    {
+      "req": "JR343970",
+      "themes": [
+        "Talent / HR / Employee Success"
+      ]
+    },
+    {
+      "req": "JR341047",
+      "themes": []
+    },
+    {
+      "req": "JR334959",
+      "themes": [
+        "Sales / Service / Marketing / Commerce Cloud"
+      ]
+    },
+    {
+      "req": "JR343946",
+      "themes": []
+    },
+    {
+      "req": "JR292762",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Industry Clouds / Vertical"
+      ]
+    },
+    {
+      "req": "JR341996",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR340650",
+      "themes": [
+        "Marketing / Communications / Creative",
+        "Slack / Collaboration"
+      ]
+    },
+    {
+      "req": "JR342149",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR342897",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR341265",
+      "themes": [
+        "Partner / AppExchange / Marketplace / Ecosystem"
+      ]
+    },
+    {
+      "req": "JR341360",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Security / Trust / Compliance",
+        "MuleSoft / Integration"
+      ]
+    },
+    {
+      "req": "JR322911",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR293196",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Industry Clouds / Vertical"
+      ]
+    },
+    {
+      "req": "JR333832",
+      "themes": [
+        "Engineering / Platforms / Infrastructure",
+        "Agentforce / AI Agents"
+      ]
+    },
+    {
+      "req": "JR292908",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR338521",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Public Sector / Missionforce"
+      ]
+    },
+    {
+      "req": "JR321042",
+      "themes": []
+    },
+    {
+      "req": "JR328544",
+      "themes": [
+        "Engineering / Platforms / Infrastructure"
+      ]
+    },
+    {
+      "req": "JR293223",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM",
+        "Industry Clouds / Vertical"
+      ]
+    },
+    {
+      "req": "JR327335",
+      "themes": []
+    },
+    {
+      "req": "JR323277",
+      "themes": [
+        "GTM / Sales / AE / SE / CSM"
+      ]
+    },
+    {
+      "req": "JR285704",
+      "themes": []
+    }
+  ]
+}

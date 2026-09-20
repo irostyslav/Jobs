@@ -1,0 +1,154 @@
+{
+  "generated": "2026-09-20T14:24:00-07:00",
+  "company": "Salesforce Inc. (corporate)",
+  "sources": {
+    "workday": "ok",
+    "linkedin_guest": "partial (f_C empty; keyword+filter worked)",
+    "careers_salesforce_com": "redirects to marketing careers; jobs on Workday"
+  },
+  "ranked": [
+    {
+      "rank": 1,
+      "title": "Senior Product Manager, Search and Personalization",
+      "req": "JR351543",
+      "location": "San Francisco, CA / Seattle, WA (US hubs)",
+      "posted": "Listed 30+ days on Careers (startDate 2026-07-27); LinkedIn refreshed ~2026-09-08",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Senior-Product-Manager--Search-and-Personalization_JR351543",
+      "li": "https://www.linkedin.com/jobs/view/4446112084",
+      "why": "Best ecosystem fit: AgentExchange Marketplace Experience \u2014 search/personalization for Agentforce agents + AppExchange apps."
+    },
+    {
+      "rank": 2,
+      "title": "Senior Product Manager, Partner Experience",
+      "req": "JR353143",
+      "location": "New York, NY (other US locations may be considered)",
+      "posted": "Careers 30+ days (startDate 2026-08-19); LinkedIn ~2026-09-20 (12h ago bump)",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/New-York---New-York/Senior-Product-Manager--Partner-Experience_JR353143",
+      "li": "https://www.linkedin.com/jobs/view/4450761137",
+      "why": "Direct partner-ecosystem PM: reimagining how partners engage/grow across Salesforce partner ecosystem."
+    },
+    {
+      "rank": 3,
+      "title": "Director, Product Management, Slackforce Architecture",
+      "req": "JR356455",
+      "location": "San Francisco, CA",
+      "posted": "Careers Posted 12 Days Ago (startDate 2026-09-08); LinkedIn ~2026-09-09",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Director--Product-Management--Slackforce-Architecture_JR356455-1",
+      "li": "https://www.linkedin.com/jobs/view/4464934341",
+      "why": "Director-level platform PM owning Slack\u2194Salesforce integration architecture \u2014 strong Senior\u2192Director target."
+    },
+    {
+      "rank": 4,
+      "title": "Director, Product Management \u2014 Campaign Brief Agent",
+      "req": "JR355350",
+      "location": "San Francisco, CA",
+      "posted": "Careers Posted 26 Days Ago (startDate 2026-08-25); LinkedIn ~2026-09-16",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Director--Product-Management---Campaign-Brief-Agent_JR355350",
+      "li": "https://www.linkedin.com/jobs/view/4459091510",
+      "why": "Director PM on agentic messaging platform (Campaign Brief Agent); level match, AI/agent product work."
+    },
+    {
+      "rank": 5,
+      "title": "Missionforce - Senior Product Manager, Agentforce Public Sector",
+      "req": "JR356268",
+      "location": "Herndon, VA / Washington DC Metro Remote",
+      "posted": "Careers 30+ days (startDate 2026-08-17); LinkedIn ~2026-09-08",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Virginia---Herndon/Missionforce---Senior-Product-Manager--Agentforce-Public-Sector_JR356268",
+      "li": "https://www.linkedin.com/jobs/view/4455346964",
+      "why": "Senior PM on Agentforce for public sector; US hubs/remote OK. Flag: US citizen / screening requirements."
+    },
+    {
+      "rank": 6,
+      "title": "Senior Product Manager, Emerging Technology",
+      "req": "JR355248",
+      "location": "New York, NY / Indianapolis, IN / San Francisco, CA",
+      "posted": "Careers Posted 20 Days Ago (startDate 2026-08-31); LinkedIn ~2026-09-19",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/New-York---New-York/Senior-Product-Manager--Emerging-Technology_JR355248",
+      "li": "https://www.linkedin.com/jobs/view/4460567390",
+      "why": "Senior PM turning emerging tech into customer-facing products; multi-hub US. Solid level/location fit."
+    },
+    {
+      "rank": 7,
+      "title": "Sr. Product Manager, Enterprise Security Technology",
+      "req": "JR359178",
+      "location": "Bellevue, WA",
+      "posted": "Careers Posted 6 Days Ago (startDate 2026-09-14); LinkedIn ~2026-09-15",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Sr-Product-Manager--Enterprise-Security-Technology_JR359178-1",
+      "li": "https://www.linkedin.com/jobs/view/4467429022",
+      "why": "Fresh Senior PM posting in US hub (Bellevue). Internal/enterprise security product \u2014 level OK, less ecosystem flavor."
+    },
+    {
+      "rank": 8,
+      "title": "Senior Product Manager (Experience Qualified / Piper AI SDR)",
+      "req": "JR352033",
+      "location": "San Francisco, CA (role text mentions SF or remote)",
+      "posted": "Careers 30+ days (startDate 2026-08-12); LinkedIn ~2026-09-03",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Senior-Product-Manager_JR352033",
+      "li": "https://www.linkedin.com/jobs/view/4453111776",
+      "why": "Senior PM on agentic marketing product (Piper AI SDR / website experience). SF hub; confirm remote flexibility."
+    },
+    {
+      "rank": 9,
+      "title": "Product Manager, Enterprise AI & Portfolio Management Platforms",
+      "req": "JR354037",
+      "location": "Seattle / Chicago / Denver / Atlanta / Dallas (US metros)",
+      "posted": "Careers 30+ days (startDate 2026-08-14); LinkedIn ~2026-09-05",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Seattle/Product-Manager--Enterprise-AI---Portfolio-Management-Platforms_JR354037",
+      "li": "https://www.linkedin.com/jobs/view/4454848154",
+      "why": "US multi-hub AI platform PM. Flag: title is Product Manager (not Senior/Director) \u2014 may be mid-level stretch down."
+    },
+    {
+      "rank": 10,
+      "title": "Senior Product Manager, Finance Systems \u2013 Workday",
+      "req": "JR355801",
+      "location": "Virginia Remote / Atlanta / Indianapolis / Dallas Metro Remote",
+      "posted": "Careers Posted 10 Days Ago (startDate 2026-09-10)",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Virginia---Remote/Senior-Product-Manager--Finance-Systems---Workday_JR355801",
+      "li": null,
+      "why": "Senior PM with strong US remote options. Internal DET/Finance Systems \u2014 level/location fit, not partner/marketplace."
+    },
+    {
+      "rank": 11,
+      "title": "Senior Product Manager, IT Finance",
+      "req": "JR351635",
+      "location": "San Francisco / Atlanta / Indianapolis",
+      "posted": "Careers 30+ days (startDate 2026-08-03); LinkedIn ~2026-09-12",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Senior-Manager-Product--IT-Finance_JR351635",
+      "li": "https://www.linkedin.com/jobs/view/4447724817",
+      "why": "Senior PM, US hubs. Internal Finance tech \u2014 solid Salesforce corporate PM, weaker ecosystem alignment."
+    },
+    {
+      "rank": 12,
+      "title": "Senior Product Manager, Project & Program Management, Emerging Technology",
+      "req": "JR344487",
+      "location": "New York, NY / San Francisco, CA",
+      "posted": "Careers 30+ days (startDate 2026-06-19) \u2014 oldest on list",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/New-York---New-York/Senior-Product-Manager--Project---Program-Management--Emerging-Technology_JR344487",
+      "li": null,
+      "why": "Senior title + US hubs, but role supports PMs (0\u21921 enablement) rather than owning a product portfolio; older req."
+    }
+  ],
+  "stretch": [
+    {
+      "title": "SVP, Product Management \u2013 MuleSoft Agent Fabric & AI Control Plane",
+      "req": "JR353560",
+      "location": "San Francisco, CA / New York, NY",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/SVP--Product-Management---MuleSoft-Agent-Fabric---AI-Control-Plane_JR353560",
+      "note": "Agentic/MuleSoft product leadership \u2014 domain interesting but SVP is above Director target."
+    },
+    {
+      "title": "Product Manager, Customer Success",
+      "req": "JR354315",
+      "location": "Indianapolis, IN / Dallas, TX",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Indiana---Indianapolis/Product-Manager--Customer-Success_JR354315",
+      "note": "US hubs; internal Customer Success tooling PM \u2014 likely below Senior/Director band."
+    },
+    {
+      "title": "Product Manager Senior Specialist",
+      "req": "JR349769",
+      "location": "Dallas, TX / Indianapolis, IN",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Texas---Dallas/Product-Manager-Senior-Specialist_JR349769-1",
+      "note": "GTM Innovation / M&A data-movement PM specialist \u2014 title/level ambiguous vs Senior PM\u2013Director."
+    }
+  ]
+}
